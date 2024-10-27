@@ -1,0 +1,11 @@
+[
+     {"amount":18780.0,
+      "category":"Audi",
+      "notes":"Sweet  car"
+    },
+    {
+        "amount":15155,
+        "category":"Mercedes",
+        "notes":"Sweet car"
+    }
+]
